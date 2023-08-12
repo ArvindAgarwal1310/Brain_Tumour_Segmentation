@@ -7,4 +7,5 @@ Model : UNET
 
 Frontend : Flutter
 
-Server : AWS
+Server : AWS - Flask API
+
