@@ -9,4 +9,4 @@ Frontend : Flutter
 
 Server : AWS - Flask API
 
-Note : The model is uploaded to GitHub, Please contact me to get access to the pretrained model.
+Note : The model is not uploaded to GitHub, Please contact me to get access to the pretrained model, or script.
